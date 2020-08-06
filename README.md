@@ -1,1 +1,1 @@
-# TicTacToe---Java
+# TicTacToe-Java
